@@ -1,0 +1,1 @@
+For Recon on subdomain enumeration there is a **certificate-transparency.org** for SSL certificate.w
